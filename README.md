@@ -1,4 +1,8 @@
-Hi, I'm Tristen 
+Hi, I'm Tristen
+
+I have experience in languages such as Rust, Java, Dart.
+
+Currently working on some rust projects like a 2d platformer and a personal website
 
 <!--
 **Tman360A/Tman360A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
