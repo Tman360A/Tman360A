@@ -1,5 +1,7 @@
 Hi, I'm Tristen
 
+I love arch linux and ricing it.
+
 I have experience in languages such as Rust, Java, Dart.
 
 Currently working on some rust projects like a 2d platformer and a personal website
